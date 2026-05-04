@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { portfolioData } from '@/lib/data'
-import { Mail, Phone, MapPin, Linkedin, ExternalLink } from 'lucide-react'
+import { Mail, Phone, MapPin, ExternalLink } from 'lucide-react'
 
 export default function Contact() {
   return (
